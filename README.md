@@ -3,12 +3,12 @@
 Welcome to my GitHub. My name is Amol and I'm a Machine Learning Developer at Global AI Solutions working on Speech Processing 🗣, Object Detection , on [Hello Shraa](https://helloshraa.com/), a project that leverages Speech Recognition to analyse and improve the pronunciation of user.
 
 
-Outside of Data Science, my interests are:
-- Sports 🚴‍♂️: Playing Volleyball is my most favouirate one as a matter of fact i also used to represent the district level team. 
+Outside of Machine Learning, my interests are:
+- Sports 🚴‍♂️: Playing Volleyball is my most favourite one as a matter of fact i also used to represent the district level team. 
 - Reading/Learning 💻: I spend most of my free time trying to learn stuffs. I try to do 1 online course per month, although I don't always manage to do so.
 
 
-I have a B.E. in Computer Engineering  from the University of Pune. It would be unfair to say my undergrad degree gave me the passion behind starting ML Learning but in some fair point it help me to understand the math behind it. 
+I have a B.E. in Computer Engineering  from the University of Pune. It would be unfair to say my undergrad degree gave me the passion behind starting ML but in some fair point it help me to understand the math behind it. 
 
 My technical interests are:
 - Applied Machine Learning and Deep Learning
