@@ -1,4 +1,4 @@
- Hi there 👋
+ Hi there ! 👋
 -------
 Welcome to my GitHub. My name is Amol and I'm a Machine Learning Developer at Global AI Solutions working on Speech Processing 🗣, Object Detection , on [Hello Shraa](https://helloshraa.com/), a project that leverages Speech Recognition to analyse and improve the pronunciation of user.
 
