@@ -22,3 +22,6 @@ Data Science is moving fast. Reading about AI-related news could be a full-time 
 
 
 You can [contact me](mailto:amol.jagdambe@gmail.com) if you think we could work together on  a project, or if you have any question/remark. If you would like to get to know more about me and my projects.
+
+### Visitors - 
+<img align="center" src="https://profile-counter.glitch.me/amoljagadambe/count.svg">
