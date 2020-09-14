@@ -26,6 +26,7 @@ Data Science is moving fast. Reading about AI-related news could be a full-time 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+
 You can [contact me](mailto:amol.jagdambe@gmail.com) if you think we could work together on  a project, or if you have any question/remark. If you would like to get to know more about me and my projects.
 
 <br />
