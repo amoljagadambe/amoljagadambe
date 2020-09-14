@@ -47,6 +47,13 @@ You can [contact me](mailto:amol.jagdambe@gmail.com) if you think we could work 
 ---
 
 <details>
+  <summary>:zap: Top Languages</summary>
+
+  <img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amoljagadambe&hide=javascript,html" />
+
+</details>
+
+<details>
   <summary>:zap: Github Stats</summary>
 
   <img align="left" alt="Amol Jagadambe's Github Stats" src="https://github-readme-stats.vercel.app/api?username=amoljagadambe&count_private=true&show_icons=true&hide_border=true&theme=dracula" />
