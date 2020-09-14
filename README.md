@@ -53,10 +53,12 @@ You can [contact me](mailto:amol.jagdambe@gmail.com) if you think we could work 
 
 </details>
 
+<br />
+
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="Amol Jagadambe's Github Stats" src="https://github-readme-stats.vercel.app/api?username=amoljagadambe&count_private=true&show_icons=true&hide_border=true&theme=dracula" />
+  <img align="left" alt="Amol Jagadambe's Github Stats" src="https://github-readme-stats.vercel.app/api?username=amoljagadambe&count_private=true&show_icons=true&hide_border=true&theme=vue-dark" />
 
 </details>
 
