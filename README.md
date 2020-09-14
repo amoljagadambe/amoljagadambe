@@ -44,10 +44,14 @@ Data Science is moving fast. Reading about AI-related news could be a full-time 
 
 You can [contact me](mailto:amol.jagdambe@gmail.com) if you think we could work together on  a project, or if you have any question/remark. If you would like to get to know more about me and my projects.
 
+---
 
+<details>
+  <summary>:zap: Github Stats</summary>
 
-### Visitors - 
-<img align="center" src="https://profile-counter.glitch.me/amoljagadambe/count.svg">
+  <img align="left" alt="Amol Jagadambe's Github Stats" src="https://github-readme-stats.vercel.app/api?username=amoljagadambe&count_private=true&show_icons=true&hide_border=true&theme=dracula" />
+
+</details>
 
 
 
