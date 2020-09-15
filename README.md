@@ -32,6 +32,8 @@ Data Science is moving fast. Reading about AI-related news could be a full-time 
 
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/python/python.png" />
 <img align="left" alt="TensorFlow" width="26px" src="https://pbs.twimg.com/profile_images/1103339571977248768/FtFnqC38.png" />
+<img align="left" alt="Keras" width="26px" src="https://camo.githubusercontent.com/0d08dc4f9466d347e8d28a951ea51e3430c6f92c/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6b657261732e696f2f696d672f6b657261732d6c6f676f2d323031382d6c617267652d313230302e706e67" />
+<img align="left" alt="Scikit Learn" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
