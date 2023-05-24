@@ -1,6 +1,7 @@
  Hi there ! 👋
 -------
 Welcome to my GitHub. My name is Amol and I'm a Python Developer at [Atos](https://atos.net/en/), currently working on Kafka with the exciting team from Allstate.
+
 I've used to work at Global AI Solutions working on Speech Processing 🗣, Object Detection , on [Hello Shraa](https://helloshraa.com/), a project that leverages Speech Recognition to analyse and improve the pronunciation of user.
 
 
