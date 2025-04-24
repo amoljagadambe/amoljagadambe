@@ -1,26 +1,26 @@
  Hi there ! 👋
 -------
-Welcome to my GitHub. My name is Amol and I'm a Python Developer at [Atos](https://atos.net/en/), currently working on Kafka with the exciting team from Allstate.
+Welcome to my GitHub. My name is Amol and I'm an Associate Consultant at [Atos](https://atos.net/en/) (Eviden), with 6.7 years of experience in Python and AI development. I specialize in building advanced AI solutions, machine learning models, and robust Python applications.
 
-I've used to work at Global AI Solutions working on Speech Processing 🗣, Object Detection , on [Hello Shraa](https://helloshraa.com/), a project that leverages Speech Recognition to analyse and improve the pronunciation of user.
+I've worked on various exciting projects including:
+- Building an OpenAI Chatbot using RAG for ServiceNow incident resolution
+- Creating an AI interviewer BOT for ATOS hackathon
+- Developing a Kafka consumer application for Allstate
+- Engineering speaker verification systems and accent improvement applications
 
+My technical expertise includes:
+- Programming: Python
+- AI & ML: NLTK, SpaCy, Hugging Face Transformers, Computer Vision, Deep Learning
+- LLM: GPT4.5, Weaviate vector store, Custom Chatbots
+- DevOps: Docker, Terraform, CI/CD, Flask, FastAPI, Streamlit
+- Cloud: AWS (Associate Developer), Azure
+- Databases: MySQL, PostgreSQL, MongoDB, Snowflake, Azure Databricks
 
-Outside of Machine Learning, my interests are:
-- Sports 🚴‍♂️: Playing Volleyball is my most favourite one as a matter of fact i also used to represent the district level team. 
-- Reading/Learning 💻: I spend most of my free time trying to learn stuffs. I try to do 1 online course per month, although I don't always manage to do so.
+Outside of work, my interests are:
+- Sports 🚴‍♂️: Playing Volleyball is my favorite, and I've represented at the district level
+- Reading/Learning 💻: I spend most of my free time learning new technologies and completing online courses
 
-
-I have a B.E. in Computer Engineering  from the University of Pune. It would be unfair to say my undergrad degree gave me the passion behind starting ML but in some fair point it help me to understand the math behind it. 
-
-My technical interests are:
-- Applied Machine Learning and Deep Learning
-- Statistics in general
-- Natural Language Processing
-- Speech Processing
-- A bit of data engineering, since I'd like my next professional experience to be as a Machine Learning Engineering
-
-Data Science is moving fast. Reading about AI-related news could be a full-time job. I learn best by doing projects. So I post most of them here.
-
+I have a B.E. in Computer Engineering from Sinhgad Institute of Technology, Pune.
 
 ### Connect with me:
 
@@ -47,18 +47,9 @@ Data Science is moving fast. Reading about AI-related news could be a full-time 
 <br />
 <br />
 
-You can [contact me](mailto:amol.jagdambe@gmail.com) if you think we could work together on  a project, or if you have any question/remark. If you would like to get to know more about me and my projects.
+You can [contact me](mailto:amol.jagdambe@gmail.com) if you think we could work together on a project, or if you have any questions/remarks. If you would like to get to know more about me and my projects.
 
 ---
-
-<!-- <details>
-  <summary>:zap: Top Languages</summary>
-
-  <img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amoljagadambe&hide=javascript,html" />
-
-</details> 
-
-<br /> -->
 
 <details>
   <summary>:zap: Github Stats</summary>
@@ -66,8 +57,6 @@ You can [contact me](mailto:amol.jagdambe@gmail.com) if you think we could work 
   <img align="left" alt="Amol Jagadambe's Github Stats" src="https://github-readme-stats.vercel.app/api?username=amoljagadambe&count_private=true&show_icons=true&hide_border=true&theme=vue-dark" />
 
 </details>
-
-
 
 [twitter]: https://twitter.com/amol_jagadambe
 [instagram]: https://www.instagram.com/amoljagadambe
